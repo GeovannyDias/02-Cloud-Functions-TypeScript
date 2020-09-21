@@ -1,0 +1,25 @@
+TypeScript
+
+Project Firebase select:
+
+Roti-Grille
+-----------------------------------
+al importar dependencia si no se utiliza data error
+-----------------------------------
+Install:
+
+npm i express
+npm i cors
+
+----------------------------------
+http://localhost:4000/
+emulador
+----------------------------------
+EN LAS NUEVAS VERSIONES YA VIENE INSTALADO EL ADMIN DE FIREBASE
+
+npm intall firebase-admin -s
+[-s] agrega a las dependencias de packege.json
+
+
+
+
